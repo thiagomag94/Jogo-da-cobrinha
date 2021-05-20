@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: rgb(223, 219, 15);
+}
+
+h1 {
+    text-align: center;
+}
+
+#novo {
+    margin: 10px;
+    width: 25%;
+    text-align: center;
+}
